@@ -19,7 +19,7 @@
         "windows-vista-bar/pop": "^1.0",
         "windows-vista-bar/action": "^1.0",
         "windows-vista-bar/accordion": "^2.0",
-        "windows-vista-bar/flarum-bbcode-audio": "^1.0"
+        "windows-vista-bar/audio": "^1.0"
     },
     "autoload": {
         "psr-4": {"ZerosOnesFun\\bbbbcode\\": "src/"}
